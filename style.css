@@ -1,0 +1,22 @@
+.container{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    /* width:100%; */
+}
+.square1{
+    background-color: red;
+    height:200px;
+    width:200px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.square2{
+    background-color: blue;
+    height:100px;
+    width:100px;
+    margin-top: 96px;
+}
